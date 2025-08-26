@@ -17,6 +17,36 @@ const router = createRouter({
       // which is lazy-loaded when the route is visited.
       component: () => import('../views/AboutView.vue'),
     },
+    {
+      // 商品一覧
+      path: '/productList',
+      name: 'productList',
+      component: () => import('../views/ProductListView.vue'),
+    },
+    {
+      // 商品詳細
+      path: '/productShow',
+      name: 'productShow',
+      component: () => import('../views/ProductShowView.vue'),
+    },
+    {
+      // カート
+      path: '/cart',
+      name: 'cart',
+      component: () => import('../views/CartView.vue'),
+    },
+    {
+      // 決済確認
+      path: '/paymentConfirm',
+      name: 'paymentConfirm',
+      component: () => import('../views/PaymentConfirmView.vue'),
+    },
+    {
+      // 決済完了
+      path: '/paymentComplete',
+      name: 'paymentComplete',
+      component: () => import('../views/PaymentCompleteView.vue'),
+    },
   ],
 })
 
