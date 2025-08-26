@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "商品名1",
+            "description": "",
+            "price": "12000",
+            "imagePath": "/images/product/product_1.jpg"
+        },
+        {
+            "id": "2",
+            "name": "商品名2",
+            "description": "",
+            "price": "13000",
+            "imagePath": "/images/product/product_2.jpg"
+        },
+        {
+            "id": "3",
+            "name": "商品名3",
+            "description": "",
+            "price": "14000",
+            "imagePath": "/images/product/product_3.jpg"
+        },
+        {
+            "id": "4",
+            "name": "商品名4",
+            "description": "",
+            "price": "15000",
+            "imagePath": "/images/product/product_4.jpg"
+        },
+        {
+            "id": "5",
+            "name": "商品名5",
+            "description": "",
+            "price": "16000",
+            "imagePath": "/images/product/product_5.jpg"
+        },
+        {
+            "id": "6",
+            "name": "商品名6",
+            "description": "",
+            "price": "17000",
+            "imagePath": "/images/product/product_6.jpg"
+        },
+        {
+            "id": "7",
+            "name": "商品名7",
+            "description": "",
+            "price": "18000",
+            "imagePath": "/images/product/product_7.jpg"
+        },
+        {
+            "id": "8",
+            "name": "商品名8",
+            "description": "",
+            "price": "19000",
+            "imagePath": "/images/product/product_8.jpg"
+        },
+        {
+            "id": "9",
+            "name": "商品名9",
+            "description": "",
+            "price": "110000",
+            "imagePath": "/images/product/product_9.jpg"
+        },
+        {
+            "id": "10",
+            "name": "商品名10",
+            "description": "",
+            "price": "121100",
+            "imagePath": "/images/product/product_10.jpg"
+        }
+    ]
+}
